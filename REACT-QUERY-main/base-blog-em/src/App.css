@@ -1,3 +1,7 @@
+body {
+  background: rgb(102, 212, 255);
+}
+
 li {
   margin-top: 8px;
 }
